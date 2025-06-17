@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NtYEgKUzzQoRAWi02oPDsKh3vboUyYr1ZdlzYediqp0=",
+  "Source": "CohereApiBackend",
+  "BasePath": "_content/CohereApiBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
